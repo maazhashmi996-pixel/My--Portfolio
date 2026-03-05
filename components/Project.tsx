@@ -12,15 +12,15 @@ interface Project {
 
 const projects: Project[] = [
 
-    { id: 3, title: "Lead-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://leads-management-system-next.vercel.app/" },
-    { id: 3, title: "Accounts-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://accounts-software-frontend.vercel.app/login" },
+    { id: 1, title: "Lead-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://leads-management-system-next.vercel.app/" },
+    { id: 2, title: "Accounts-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://accounts-software-frontend.vercel.app/login" },
     { id: 3, title: "Data-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://data-management-system-next.vercel.app/login" },
-    { id: 3, title: "Assan Rishta Website", description: "Full Stack Website", tags: ["Next.js", "Express", "Chart.js"], link: "https://assanrishta.com/" },
-    { id: 6, title: "Dib Education System", description: "Full Stack Project.", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dib.ac.pk/" },
-    { id: 5, title: "Dawood Gee Astrologer", description: "Modern Website in Frontend + Backend", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dawoodgeedawood.com/" },
-    { id: 2, title: "Hukam Express", description: " Website With Dashboard.", tags: ["Three.js", "Next.js"], link: "https://hukamexpress.com/" },
-    { id: 4, title: "Ride To Mechanic", description: "E-Commerce Website With Dashboard.", tags: ["Next Js", "Chart.js"], link: "https://full-stack-project-sandy.vercel.app/" },
-    { id: 1, title: "Gifted Wheels Driving School", description: "Driving Website build in Js", tags: ["React", "Node.js", "MongoDB"], link: "https://giftedwheelsds.com/" },
+    { id: 4, title: "Assan Rishta Website", description: "Full Stack Website", tags: ["Next.js", "Express", "Chart.js"], link: "https://assanrishta.com/" },
+    { id: 5, title: "Dib Education System", description: "Full Stack Project.", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dib.ac.pk/" },
+    { id: 6, title: "Dawood Gee Astrologer", description: "Modern Website in Frontend + Backend", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dawoodgeedawood.com/" },
+    { id: 7, title: "Hukam Express", description: " Website With Dashboard.", tags: ["Three.js", "Next.js"], link: "https://hukamexpress.com/" },
+    { id: 8, title: "Ride To Mechanic", description: "E-Commerce Website With Dashboard.", tags: ["Next Js", "Chart.js"], link: "https://full-stack-project-sandy.vercel.app/" },
+    { id: 9, title: "Gifted Wheels Driving School", description: "Driving Website build in Js", tags: ["React", "Node.js", "MongoDB"], link: "https://giftedwheelsds.com/" },
 
 ];
 
