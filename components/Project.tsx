@@ -11,12 +11,17 @@ interface Project {
 }
 
 const projects: Project[] = [
-    { id: 1, title: "Gifted Wheels Driving School", description: "Driving Website build in Js", tags: ["React", "Node.js", "MongoDB"], link: "https://giftedwheelsds.com/" },
-    { id: 2, title: "Hukam Express", description: " Website With Dashboard.", tags: ["Three.js", "Next.js"], link: "https://hukamexpress.com/" },
+
     { id: 3, title: "Lead-Managment-System", description: "Full Stack CRM", tags: ["Express", "Chart.js"], link: "https://leads-management-system-next.vercel.app/" },
-    { id: 4, title: "Ride To Mechanic", description: "E-Commerce Website With Dashboard.", tags: ["Next Js", "Chart.js"], link: "https://full-stack-project-sandy.vercel.app/" },
-    { id: 5, title: "Dawood Gee Astrologer", description: "Modern Website in Frontend + Backend", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dawoodgeedawood.com/" },
+    { id: 3, title: "Accounts-Managment-System", description: "Full Stack CRM", tags: ["Express", "Chart.js"], link: "https://accounts-software-frontend.vercel.app/login" },
+    { id: 3, title: "Data-Managment-System", description: "Full Stack CRM", tags: ["Express", "Chart.js"], link: "https://data-management-system-next.vercel.app/login" },
+    { id: 3, title: "Assan Rishta Website", description: "Full Stack CRM", tags: ["Express", "Chart.js"], link: "https://data-management-system-next.vercel.app/login" },
     { id: 6, title: "Dib Education System", description: "Full Stack Project.", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dib.ac.pk/" },
+    { id: 5, title: "Dawood Gee Astrologer", description: "Modern Website in Frontend + Backend", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dawoodgeedawood.com/" },
+    { id: 2, title: "Hukam Express", description: " Website With Dashboard.", tags: ["Three.js", "Next.js"], link: "https://hukamexpress.com/" },
+    { id: 4, title: "Ride To Mechanic", description: "E-Commerce Website With Dashboard.", tags: ["Next Js", "Chart.js"], link: "https://full-stack-project-sandy.vercel.app/" },
+    { id: 1, title: "Gifted Wheels Driving School", description: "Driving Website build in Js", tags: ["React", "Node.js", "MongoDB"], link: "https://giftedwheelsds.com/" },
+
 ];
 
 export const Projects = () => {
