@@ -12,7 +12,8 @@ interface Project {
 
 const projects: Project[] = [
 
-    { id: 1, title: "Lead-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://leads-management-system-next.vercel.app/" },
+    { id: 1, title: "Lead-Managment-System", description: "Full Stack CRM ", tags: ["Next.js", "Express", "Chart.js"], link: "https://leads-management-system-next.vercel.app/" },
+    { id: 1, title: "Learning-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://softhub-lms-next.vercel.app/" },
     { id: 2, title: "Accounts-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://accounts-software-frontend.vercel.app/login" },
     { id: 3, title: "Data-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js"], link: "https://data-management-system-next.vercel.app/login" },
     { id: 4, title: "Assan Rishta Website", description: "Full Stack Website", tags: ["Next.js", "Express", "Chart.js"], link: "https://assanrishta.com/" },
