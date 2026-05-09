@@ -56,7 +56,6 @@ export const Projects = () => {
                         whileHover={{ y: -10 }}
                         className="group relative block rounded-[2.5rem] bg-white/[0.02] border border-white/10 overflow-hidden backdrop-blur-md transition-all hover:border-indigo-500/40 hover:bg-white/[0.04] shadow-2xl"
                     >
-                        {/* Glow effect on hover */}
                         <div className="absolute -inset-1 bg-indigo-500/20 rounded-[2.5rem] blur-xl opacity-0 group-hover:opacity-100 transition duration-500" />
 
                         <div className="relative p-12 h-full flex flex-col bg-[#020205]/80">
