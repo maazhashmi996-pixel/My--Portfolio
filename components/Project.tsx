@@ -18,6 +18,7 @@ const projects: Project[] = [
     { id: 3, title: "Data-Managment-System", description: "Full Stack CRM", tags: ["Next.js", "Express", "Chart.js", "Cloudinary"], link: "https://data-management-system-next.vercel.app/login" },
     { id: 4, title: "Document-Verification-System", description: "Full Stack Verification CRM with Landing Page", tags: ["Next.js", "Express", "Chart.js", "Cloudinary"], link: "https://verification.com.pk/" },
     { id: 5, title: "Assan Rishta Website", description: "Full Stack Website", tags: ["Next.js", "Express", "Chart.js", "Cloudinary"], link: "https://assanrishta.com/" },
+    { id: 5, title: "SQL Centrix Website", description: "Full Stack Website", tags: ["Next.js", "Express", "Chart.js", "Cloudinary"], link: "sql-centrix-website.vercel.app" },
     { id: 6, title: "Dib Education System", description: "Full Stack Project.", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://dib.ac.pk/" },
     { id: 6, title: "Ar Production", description: "Next.Js Website", tags: ["Next.js", "Tailwind"], link: "https://ar-production.vercel.app/" },
     { id: 7, title: "Ezone Website", description: "Full Stack Project.", tags: ["Next.js", "Tailwind", "Cloudinary"], link: "https://ezone.com.pk/" },
